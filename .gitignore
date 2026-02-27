@@ -1,0 +1,23 @@
+# Ignore Python cache directories
+__pycache__/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Environment files
+.env
+.venv
+venv/
+ENV/
